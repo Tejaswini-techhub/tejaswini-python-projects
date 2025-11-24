@@ -1,19 +1,18 @@
 # Tejaswini's Beginner Python Projects
 This repository contains 9 beginner-friendly projects with simple code and instructions. Each project is placed in its own folder with a short README explaining how to run it.
 
-Folders:
-1. expense_tracker
-2. student_result_system
-3. weather_app
-4. todo_app
-5. password_generator
-6. simple_chatbot
-7. salary_prediction
-8. movie_recommender
-9. portfolio_website
+Project Overview
 
-Each project includes a short `README.md` with run instructions. Use `requirements.txt` in the root to install dependencies where needed.
+| Project                   | Description                                                  | How to Run                        |
+| ------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| **Expense Tracker**       | Log daily expenses, categorize spending, and view summaries. | `python expense_tracker.py`       |
+| **Student Result System** | Input marks and auto-generate grades/results.                | `python student_result_system.py` |
+| **Weather App**           | Fetch real-time weather data via API.                        | `python weather_app.py`           |
+| **To-Do App**             | Manage tasks through a simple CLI interface.                 | `python todo_app.py`              |
+| **Password Generator**    | Create secure and customizable passwords.                    | `python password_generator.py`    |
+| **Simple Chatbot**        | Basic rule-based conversational bot.                         | `python simple_chatbot.py`        |
+| **Salary Prediction**     | Predict salary using a basic ML model.                       | `python salary_prediction.py`     |
+| **Movie Recommender**     | Recommend movies based on preferences.                       | `python movie_recommender.py`     |
+| **Portfolio Website**     | Simple, static HTML/CSS personal portfolio.                  | Open `index.html` in a browser    |
 
----
-Generated for: Tejaswini R
-Email: tejaswini.m.ramesh@gmail.com
+A root-level **requirements.txt** provides shared dependencies.
